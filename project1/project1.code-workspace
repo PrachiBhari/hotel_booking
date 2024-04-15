@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../profile webpage"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "project1",
+		"liveServer.settings.port": 5501
+	}
+}
